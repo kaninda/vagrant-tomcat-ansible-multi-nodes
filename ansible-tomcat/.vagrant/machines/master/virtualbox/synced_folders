@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant_master":{"guestpath":"/vagrant_master","hostpath":"/Users/kaninda/work/Projet/vagrant/ansible-tomcat/data_master","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/kaninda/work/Projet/vagrant/ansible-tomcat","disabled":false,"__vagrantfile":true}}}

@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant_node1":{"guestpath":"/vagrant_node1","hostpath":"/Users/kaninda/work/Projet/vagrant/ansible-tomcat/data_node1","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/kaninda/work/Projet/vagrant/ansible-tomcat","disabled":false,"__vagrantfile":true}}}

@@ -1,0 +1,6 @@
+---
+# vars file for java_install
+
+jdk_download_url: https://download.java.net/java/GA/jdk17.0.1/2a2082e5a09d4267845be086888add4f/12/GPL/openjdk-17.0.1_linux-aarch64_bin.tar.gz
+jdk_download_location: /opt/openjdk-17.0.1_linux-aarch64_bin.tar.gz
+java_home: /opt/jdk-17.0.1

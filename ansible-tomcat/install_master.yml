@@ -1,0 +1,15 @@
+- name: Installation master
+  hosts: all
+  become: yes
+  tasks:
+    - name: update packages
+      apt:
+        update_cache: yes
+    - name: Installation de curl
+      apt:
+        name: curl
+        state: present
+    - name: installation ansible
+      apt:
+        name: ansible
+        state: present
