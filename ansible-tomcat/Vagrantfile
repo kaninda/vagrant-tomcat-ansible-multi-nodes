@@ -36,6 +36,9 @@ Vagrant.configure("2") do |config|
     node1.vm.provision "ansible" do |ansible|
       ansible.playbook = "java17_install_playbook.yml"
     end
+    node1.vm.provision "ansible" do |ansible|
+      ansible.playbook = "node1_roles_install.yml"
+    end
   end
 
   # Configuration SSH (globale)

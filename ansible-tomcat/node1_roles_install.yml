@@ -1,0 +1,5 @@
+- name: Master install nodes
+  hosts: all
+  become: yes
+  roles:
+    - tomcat_install

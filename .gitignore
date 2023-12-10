@@ -1,2 +1,5 @@
 /.idea/
 /ansible-tomcat/.vagrant/
+/ansible-tomcat/ubuntu-bionic-18.04-cloudimg-console.log
+/ansible-tomcat/roles/tomcat_install/README.md
+/ansible-tomcat/roles/tomcat_install/.travis.yml
